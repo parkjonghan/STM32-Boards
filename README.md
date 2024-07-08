@@ -1,1 +1,1 @@
-# Bare-metal Uart Example
+# STM32 Boards Example
